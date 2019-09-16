@@ -10,5 +10,5 @@ def multiple(x,y):
 def divide(x,y):
     return x/y
 
-def decrement(x)
+def decrement(x):
    return x--
